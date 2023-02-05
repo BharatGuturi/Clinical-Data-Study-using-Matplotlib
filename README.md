@@ -4,7 +4,7 @@ This project deals with screening for potential treatments for squamous cell car
 
 In this study, 249 mice who were identified with SCC tumours received treatment with a range of drug regimens. Over the course of 45 days, tumour development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
-In this activity, tables and figures needed for the technical report of the clinical study have been generated along with top-level summary of the study results.
+In this project, graphs and plots of the clinincal study which are necessary for the top-level summary of the study results have been generated.
 
 # Instructions
 
