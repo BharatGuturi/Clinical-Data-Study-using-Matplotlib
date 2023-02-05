@@ -9,7 +9,7 @@ In this project, graphs and plots of the clinincal study which are necessary for
 # Instructions
 
 1) To run the repo, use the following command
-  git clone https://github.com/BharatGuturi/Matplotlib_Challenge.git
+  git clone https://github.com/BharatGuturi/Clinical-Data-Study-using-Matplotlib.git
 2) Input data is in Pymaceuticals\data
 3) 'pymaceuticals_working' is the jupyter notebook created for study
 4) 'mouse_data_complete' and 'mouse_data_complete_2' are the output csvs generated during the process of analysis
